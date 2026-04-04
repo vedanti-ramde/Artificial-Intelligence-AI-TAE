@@ -1,0 +1,13 @@
+vehicle_count,hour,congestion
+120,8,High
+130,9,High
+110,7,High
+90,17,Medium
+80,16,Medium
+70,14,Medium
+40,21,Low
+30,22,Low
+20,23,Low
+50,13,Medium
+140,8,High
+25,1,Low
